@@ -85,7 +85,7 @@ Key observations:
 Therefore, prompt clarity plays a significant role in improving quality, accuracy, and depth of AI-generated responses.
 
 
-Result
+Result:
 The experiment successfully compared naïve prompts and basic prompts across different test scenarios using ChatGPT.
 It was observed that basic prompts consistently generated more accurate, clear, and detailed responses compared to naïve prompts. This demonstrates that structured prompts significantly improve the performance of AI systems.
 Thus, prompt engineering is an important technique for obtaining high-quality outputs from AI tools such as ChatGPT.
