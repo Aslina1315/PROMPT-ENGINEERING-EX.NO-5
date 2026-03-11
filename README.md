@@ -48,22 +48,12 @@ Providing advice or recommendations
 
 Prompt comparison table : 
 
-+----------------------+-----------------------------+--------------------------------------------------------------+
-| Scenario             | Naïve Prompt                | Basic Prompt                                                 |
-+----------------------+-----------------------------+--------------------------------------------------------------+
-| Creative Story       | Write a story.              | Write a short creative story about a robot helping humans   |
-|                      |                             | in a smart city with a clear beginning, middle, and end.    |
-+----------------------+-----------------------------+--------------------------------------------------------------+
-| Factual Question     | What is AI?                 | Explain Artificial Intelligence, its types, and real-world  |
-|                      |                             | applications in simple terms.                                |
-+----------------------+-----------------------------+--------------------------------------------------------------+
-| Summarization        | Summarize machine learning. | Summarize machine learning in 5–6 sentences including its   |
-|                      |                             | purpose and examples.                                        |
-+----------------------+-----------------------------+--------------------------------------------------------------+
-| Advice               | Give study advice.          | Provide study tips for engineering students to improve      |
-|                      |                             | productivity and time management.                            |
-+----------------------+-----------------------------+--------------------------------------------------------------+
-
+| Scenario | Naïve Prompt | Basic Prompt |
+|----------|--------------|--------------|
+| Creative Story | Write a story. | Write a short creative story about a robot helping humans in a smart city with a clear beginning, middle, and ending. |
+| Factual Question | What is AI? | Explain Artificial Intelligence, its types, and real-world applications in simple terms. |
+| Summarization | Summarize machine learning. | Summarize the concept of machine learning in 5–6 sentences including its purpose and examples. |
+| Advice / Recommendation | Give study advice. | Provide practical study tips for engineering students to improve productivity and time management. |
 
 
 Figure 2 – Naïve Prompt vs Structured Prompt
@@ -74,25 +64,16 @@ Figure 2 – Naïve Prompt vs Structured Prompt
 Caption:
 Figure 2: Comparison between naïve prompts and structured prompts showing how prompt clarity improves AI response quality.
 
-+----------------------+--------------+----------+----------+-----------+
-| Scenario             | Prompt Type  | Quality  | Accuracy | Depth     |
-+----------------------+--------------+----------+----------+-----------+
-| Creative Story       | Naïve Prompt | Moderate | Moderate | Low       |
-+----------------------+--------------+----------+----------+-----------+
-| Creative Story       | Basic Prompt | High     | High     | Detailed  |
-+----------------------+--------------+----------+----------+-----------+
-| Factual Question     | Naïve Prompt | Moderate | Accurate | Limited   |
-+----------------------+--------------+----------+----------+-----------+
-| Factual Question     | Basic Prompt | High     | Accurate | Detailed  |
-+----------------------+--------------+----------+----------+-----------+
-| Summarization        | Naïve Prompt | Basic    | Accurate | Short     |
-+----------------------+--------------+----------+----------+-----------+
-| Summarization        | Basic Prompt | Clear    | Accurate | Structured|
-+----------------------+--------------+----------+----------+-----------+
-| Advice               | Naïve Prompt | General  | Moderate | Limited   |
-+----------------------+--------------+----------+----------+-----------+
-| Advice               | Basic Prompt | Practical| Accurate | Detailed  |
-+----------------------+--------------+----------+----------+-----------+
+| Scenario | Prompt Type | Quality | Accuracy | Depth |
+|----------|-------------|---------|----------|-------|
+| Creative Story | Naïve Prompt | Moderate | Moderate | Low |
+| Creative Story | Basic Prompt | High | High | Detailed |
+| Factual Question | Naïve Prompt | Moderate | Accurate | Limited |
+| Factual Question | Basic Prompt | High | Highly Accurate | Detailed |
+| Summarization | Naïve Prompt | Basic Summary | Accurate | Short |
+| Summarization | Basic Prompt | Clear Summary | Accurate | Well Structured |
+| Advice | Naïve Prompt | General Advice | Moderate | Limited |
+| Advice | Basic Prompt | Practical Advice | Accurate | Detailed |
 
 Analysis
 From the experiment, it is observed that basic prompts produce more structured and detailed responses compared to naïve prompts.
